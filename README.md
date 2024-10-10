@@ -54,7 +54,7 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
 <div align="center">
   <!-- Top: Streak stats -->
   <div style="display: flex; justify-content: space-around; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patPron&theme=panda&hide_border=false" width="60%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickJosephPronuevo&theme=panda&hide_border=false" width="60%">
     <a href="https://github.com/PatrickJosephPronuevo">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatrickJosephPronuevo&theme=panda&hide_border=false&include_all_commits=true&count_private=false" alt="Patrick's GitHub Contribution" width="60%">
     </a>
